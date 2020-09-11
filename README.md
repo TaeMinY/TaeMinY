@@ -1,4 +1,26 @@
-### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funitaemin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Welcome to my Github Profile 👋
+
+### Hello, I am **Taemin** and I am currently attending **Sunrin Internet High School**.
+
+### I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and **WebGl**.
+
+# Skill 🔨
+
+- Vue - Vuetify, Vuex
+- React - Mobx
+- TypeScript
+- Node.js - Express
+- Web3D - Three.js, Aframe.js
+
+# Portfolio 📚
+
+undefined
+
+# Github Stats ✨
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UniTaeMin)
+
+# Contacts 📞
+
+- onnu0802@naver.com
+- webfullstack@kakao.com
