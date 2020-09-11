@@ -6,7 +6,7 @@ I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and
 
 ## Skill 🔨
 
-- Vue - Vuetify, Vuex
+- Vue - Vuetify, Vuex, Nuxt.js
 - React - Mobx
 - TypeScript
 - Node.js - Express
@@ -18,7 +18,7 @@ I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and
 ### Career
 
 - 2020.07 ~ 2020.09 : InterBrid (Web Frontend)
-- 2019.03 ~ Now: IWOP (Director)
+- 2019.03 ~ Now : IWOP (Director)
 
 ### Project
 
