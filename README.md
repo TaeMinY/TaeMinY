@@ -11,6 +11,7 @@
 - TypeScript
 - Node.js - Express
 - Web3D - Three.js, Aframe.js
+- Database - Mysql, MongoDB
 
 # Portfolio 📚
 
