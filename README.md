@@ -17,11 +17,22 @@ I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and
 
 ### Career
 
-- undefined
+- 2018.02 ~ 2020.06 : TeamUni (Web Frontend)
+- 2020.07 ~ 2020.09 : InterBrid (Web Frontend)
+- 2019.03 ~ : IWOP (Director)
 
 ### Project
 
-- undefined
+- 2019.07 ~ 2019.08 : **TAP** - 타자를 향상해주는 웹 기반 타자연습 서비스 (FullStack)
+- 2019.09 ~ 2019.10 : **SLIDE** - 템플릿을 통해 빠르게 제작하는 웹 기반 PPT 서비스 (FullStack)
+- 2019.09 ~ 2019.12 : **SPACE** - 재화를 등록하고, 필요한 사람들끼리 공유할 수 있도록 도와주는 공유경제 플랫폼 (Frontend)
+- 2020.01 : **IWOP 박물관** : Web3D를 이용한 2019년 IWOP 프로젝트 전시 서비스 (Web Frontend)
+- 2020.01 ~ 2020.02 : **PlanIt** - 커뮤니티형 새해 목표 공유 웹 서비스 (FullStack)
+- 2020.02 : **복쓸복쓸** - 멀티 게임을 통해 상대방보다 복을 많이 쓸어 담아 복주머니를 채우면 이기는 게임 (Backend)
+- 2020.02 ~ 2020.07 : **웨어마스크** - 내 주변의 안전한 마스크 공적판매처 (Web, Backend)
+- 2020.06 ~ 2020.07 : **DanZam** - 사용시간 기준 수면 패턴 체크 어플리케이션 (Backend)
+- 2020.05 ~ 2020.07 : **휴가 관리 솔루션 개발** (Web Frontend)
+- 2020.02 ~ Now : **BingoMill** - 빙고를 제작하고 공유하는 웹 기반 서비스 (FullStack)
 
 ## Github Stats ✨
 
