@@ -6,7 +6,6 @@ I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and
 
 ## Skill 🔨
 
-<hr />
 - Vue - Vuetify, Vuex
 - React - Mobx
 - TypeScript
@@ -15,8 +14,6 @@ I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and
 - Database - Mysql, MongoDB
 
 ## Portfolio 📚
-
-<hr />
 
 ### Career
 
@@ -28,13 +25,9 @@ I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and
 
 ## Github Stats ✨
 
-<hr />
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UniTaeMin)
 
 ## Contacts 📞
-
-<hr />
 
 - onnu0802@naver.com
 - webfullstack@kakao.com
