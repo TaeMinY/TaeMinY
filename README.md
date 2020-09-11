@@ -15,7 +15,13 @@
 
 # Portfolio 📚
 
-undefined
+## Career
+
+- undefined
+
+## Project
+
+- undefined
 
 # Github Stats ✨
 
