@@ -32,6 +32,7 @@ I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and
 - 2020.06 ~ 2020.07 : **DanZam** - 사용시간 기준 수면 패턴 체크 어플리케이션 (Backend)
 - 2020.05 ~ 2020.08 : **휴가 관리 솔루션 개발** (Web Frontend)
 - 2020.02 ~ Now : **BingoMill** - 빙고를 제작하고 공유하는 웹 기반 서비스 (FullStack)
+- 2020.02 ~ Now : **Hellfight** - 턴제 격투 게임 프로젝트 (Backend)
 
 ## Github Stats ✨
 
