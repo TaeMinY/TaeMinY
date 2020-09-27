@@ -19,6 +19,7 @@ I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and
 
 - 2020.07 ~ 2020.09 : InterBrid (Web Frontend)
 - 2019.03 ~ Now : IWOP (Director)
+- 2019.03 ~ Now : 3PM (Member)
 
 ### Project
 
