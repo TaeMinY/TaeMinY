@@ -35,6 +35,7 @@ I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and
 - 2020.05 ~ 2020.09 : **트라이트** - 전동킥보드 후미등 표시기 및 방향 지시등 서비스 (Planner)
 - 2020.02 ~ Now : **BingoMill** - 빙고를 제작하고 공유하는 웹 기반 서비스 (FullStack)
 - 2020.02 ~ Now : **Hellfight** - 턴제 격투 게임 프로젝트 (Backend)
+- 2020.09 ~ Now : **Grouping** - 비공개 (Planner, Design, FullStack)
 
 ## Github Stats ✨
 
