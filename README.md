@@ -11,7 +11,7 @@ I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and
 - TypeScript
 - Node.js - Express
 - Web3D - Three.js, Aframe.js
-- Database - MySQL, MongoDB
+- Database - MongoDB
 
 ## Portfolio 📚
 
