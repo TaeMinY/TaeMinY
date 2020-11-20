@@ -35,6 +35,7 @@ I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and
 - 2020.05 ~ 2020.08 : **휴가 관리 솔루션 개발** (Web Frontend)
 - 2020.05 ~ 2020.09 : **트라이트** - 전동킥보드 후미등 표시기 및 방향 지시등 서비스 (Planner)
 - 2020.07 ~ 2020.11 : **Dasom** - 치매 방지 챗봇 기반 일기장 (Backend)
+- 2020.08 ~ 2020.11 : **Enlight** - 다세대 주택 층간소음 방지 업사이클링 무드등 (Backend)
 - 2020.02 ~ Now : **BingoMill** - 빙고를 제작하고 공유하는 웹 기반 서비스 (FullStack)
 - 2020.09 ~ Now : **Grouping** - 비공개 (Planner, Design, FullStack)
 
