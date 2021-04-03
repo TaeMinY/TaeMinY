@@ -17,9 +17,8 @@ I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and
 
 ### Career
 
-- 2020.07 ~ 2020.09 : InterBrid (Web Developer)
+- 2020.07 ~ 2020.10 : InterBrid (Web Developer)
 - 2019.03 ~ Now : IWOP (Director)
-- 2019.03 ~ Now : 3PM (Member)
 
 ### Project
 
@@ -36,6 +35,7 @@ I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and
 - 2020.05 ~ 2020.08 : **휴가 관리 솔루션 개발** (Web Frontend)
 - 2020.05 ~ 2020.09 : **트라이트** - 전동킥보드 후미등 표시기 및 방향 지시등 서비스 (Planner)
 - 2020.08 ~ 2020.11 : **Enlight** - 다세대 주택 층간소음 방지 업사이클링 무드등 (Backend)
+- 2020.10 ~ 2020.12 : **MBIT** - 성격 유형 기반 커뮤니티 플랫폼 (Backend)
 
 ## Github Stats ✨
 
