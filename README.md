@@ -2,8 +2,6 @@
 
 Hello, I am **Taemin** and I am currently attending **Sunrin Internet High School**.
 
-I am interested in **Web 3D**, so I am learning **Three.js**, **Aframe.js**, and **WebGl**.
-
 ## Skill 🔨
 
 - Vue - Vuetify, Vuex, Nuxt.js
