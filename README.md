@@ -35,17 +35,6 @@ Hello, I am **Taemin** and I am currently attending **Sunrin Internet High Schoo
 - 2020.08 ~ 2020.11 : **Enlight** - 다세대 주택 층간소음 방지 업사이클링 무드등 (Backend)
 - 2020.10 ~ 2020.12 : **MBIT** - 성격 유형 기반 커뮤니티 플랫폼 (Backend)
 
-### Contest
-
-- 한컴라이프케어 대국민 마스크 아이디어 공모전 기술부분 은상 [2020]
-- 서울시 창의아이디어 경진대회 동상 [2020] - PM
-- 용인시디지털산업진흥원 업사이클링 메이커톤 우수상 [2020] - Backend Develop
-- ICT콤플렉스 앱개발 챌린지 최우수상 [2020] - Backend Develop
-- 한국공항공사배 고등창업 장려상 [2020] - Backend Develop
-- 제 3회 KB국민은행 소프트웨어 경진대회 특별상 [2020] - Backend Develop
-- SK Smarteen App Challenge 가작 [2020] - Backend Develop
-- 삼성 주니어 소프트웨어 창작대회 파이널리스트 [2020] - Backend Develop
-
 ## Github Stats ✨
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UniTaeMin)
