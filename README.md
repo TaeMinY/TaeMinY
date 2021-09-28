@@ -37,7 +37,7 @@ Hello, I am **Taemin** and I am currently attending **Sunrin Internet High Schoo
 
 ## Github Stats ✨
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UniTaeMin)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TaeMinY)
 
 ## Contacts 📞
 
