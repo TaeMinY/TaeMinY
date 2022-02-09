@@ -1,6 +1,6 @@
 # Welcome to my Github Profile 👋
 
-Hello, I am **Taemin** and I am currently attending **Sunrin Internet High School**.
+Hello
 
 ## Skill 🔨
 
@@ -16,7 +16,7 @@ Hello, I am **Taemin** and I am currently attending **Sunrin Internet High Schoo
 ### Career
 
 - 2020.07 ~ 2020.10 : InterBrid (Web Developer)
-- 2019.03 ~ Now : IWOP (Director)
+- 2019.03 ~ 2022.02 : IWOP (선린 인터넷 고등학교 동아리, Director)
 
 ### Project
 
@@ -27,7 +27,7 @@ Hello, I am **Taemin** and I am currently attending **Sunrin Internet High Schoo
 - 2020.01 ~ 2020.02 : **PlanIt** - 커뮤니티형 새해 목표 공유 웹 서비스 (FullStack)
 - 2020.02 ~ 2020.07 : **웨어마스크** - 내 주변의 안전한 마스크 공적판매처 (Web Frontend, Backend)
 - 2020.02 ~ 2020.09 : **Hellfight** - 턴제 격투 게임 프로젝트 (Backend)
-- 2020.02 ~ 2020.12 : **BingoMill** - 빙고를 제작하고 공유하는 웹 기반 서비스 (FullStack)
+- 2020.02 ~ 2021.12 : **BingoMill** - 빙고를 제작하고 공유하며 멀티 게임을 즐길 수 있는 웹 기반 서비스 (FullStack)
 - 2020.06 ~ 2020.07 : **DanZam** - 사용시간 기준 수면 패턴 체크 어플리케이션 (Backend)
 - 2020.05 ~ 2020.08 : **휴가 관리 솔루션 개발** (Web Frontend)
 - 2020.05 ~ 2020.09 : **트라이트** - 전동킥보드 후미등 표시기 및 방향 지시등 서비스 (Planner)
