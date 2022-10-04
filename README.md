@@ -15,7 +15,7 @@ Hello
 
 ### Career
 
-- 2020.07 ~ 2020.10 : InterBrid (Web Developer)
+- 2020.07 ~ 2020.10 : InterBrid 서비스 개발팀
 - 2019.03 ~ 2022.02 : 선린인터넷고등학교 졸업 (웹 동아리 IWOP 21기 부장)
 - 2022.03 ~ Now : 한국공학대학교 지능형ICT융합공학과 재학
 
@@ -38,6 +38,7 @@ Hello
 - 2020.09 ~ 2020.12 : **Grouping** - 그룹 일정 공유 서비스 (Backend)
 - 2020.10 ~ 2020.12 : **MBIT** - 성격 유형 기반 커뮤니티 플랫폼 (Backend)
 - 2022.03 ~ 2022.08 : **PetP** - 반려동물과 함께하는 일상 플랫폼 (Web Frontend)
+- 2022.08 ~ 2022.09 : **Ladder** - 사진 속 사람을 인식하여 그림으로 바꿔주는 서비스 (Web Frontend)
 - 2022.04 ~ Now : **LetterTo** - 온라인 편지 서비스 (Web Frontend, https://letterto.kr)
 
 ## Github Stats ✨
