@@ -39,7 +39,7 @@ Hello
 - 2020.10 ~ 2020.12 : **MBIT** - 성격 유형 기반 커뮤니티 플랫폼 (Backend)
 - 2022.03 ~ 2022.08 : **PetP** - 반려동물과 함께하는 일상 플랫폼 (Web Frontend)
 - 2022.08 ~ 2022.09 : **Ladder** - 사진 속 사람을 인식하여 그림으로 바꿔주는 서비스 (Web Frontend)
-- 2022.04 ~ Now : **LetterTo** - 온라인 편지 서비스 (Web Frontend, https://letterto.kr)
+- 2022.04 ~ Now : **LetterTo** - 온라인 편지 서비스 (Web Frontend, https://letterto.swygbro.com/)
 
 ## Github Stats ✨
 
