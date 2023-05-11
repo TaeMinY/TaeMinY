@@ -1,6 +1,6 @@
 # Welcome to my Github Profile 👋
 
-Hello
+Hello, I'm a developer who always wants to try new things.
 
 ## Skill 🔨
 
@@ -8,7 +8,6 @@ Hello
 - React - Mobx
 - TypeScript
 - Node.js - Express
-- Web3D - Three.js, Aframe.js
 - Database - MongoDB
 
 ## Portfolio 📚
