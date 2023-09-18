@@ -6,7 +6,6 @@ Hello, I'm a developer who always wants to try new things.
 
 - Vue, Nuxt, React, TypeScript
 - NodeJs, ExpressJs, NestJs
-- Redis, MongoDB, PostgreSQL, ERD
 
 ## Portfolio 📚
 
